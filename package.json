@@ -1,0 +1,16 @@
+{
+  "name": "votingsection",
+  "version": "1.0.1",
+  "description": "A polling station chief wants to determine how many people from each of the sections that make up his zone attend on voting day. The sections are: north, south and center. You also want to determine which section is with the highest number of voters.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/-voting-sections"
+  },
+ 
+  "keywords": ["js","javascript","calculation","section","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
